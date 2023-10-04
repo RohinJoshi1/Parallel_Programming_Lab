@@ -1,7 +1,6 @@
-### Note that the above programs have been tested on clang and thus does not contain 
- #include<omp.h>
+### Note that the above programs have been tested on clang and thus does not contain #include<omp.h>
 
-to run on gcc 
+to run on gcc :
 gcc <input.c> -o <opfile> -fopenmp
 to run on clang
 gcc <input.c> -o <opfile>
